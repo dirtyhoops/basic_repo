@@ -1,1 +1,2 @@
 this is a basic test
+this is an updated text
